@@ -1,0 +1,3 @@
+This is landing page project of The Odin Project fundamentals course.
+
+To be updated ...
